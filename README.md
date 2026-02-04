@@ -1,5 +1,7 @@
 🎓 BS Computer Science Student | Aspiring Cybersecurity Professional
+
 -I am a BS Computer Science student at COMSATS University Islamabad with a strong interest in cybersecurity and data protection.
+
 -Currently enrolled in the Google Cybersecurity Professional Certificate, building practical security and risk management skills.
 
 🔹Skills---
